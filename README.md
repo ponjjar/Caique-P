@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 I am studying Computer Technician at the Federal Institute (ifsp).
-- <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=19px alt="🌱"> I am currently working to learn more about Python 
+- 📚 I’m studying Computer Technician at the Federal Institute (ifsp).
+- <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=19px alt="🌱"> I’m currently working to learn more about Python 
 - Learn more about my projects in this profile
 
 
