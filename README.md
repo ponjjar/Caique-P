@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 Follow me 
 <a href="https://www.linkedin.com/in/caiqueponjjar/">
- <img src="https://imagens-revista-pro.vivadecora.com.br/uploads/2017/10/como-usar-o-linkedin-para-empresas.png" width=22px alt="">linkedIn</a> |
-<a href="https://hdzd.github.io/images/GameJolt.png" width=22px alt="">GameJolt </a> | 
-<a href="https://twitter.com/WonderfulCaco"><img src="https://img.icons8.com/cotton/2x/twitter.png" width=22px alt="">Twitter </a> 
+ <img src="https://imagens-revista-pro.vivadecora.com.br/uploads/2017/10/como-usar-o-linkedin-para-empresas.png" width=17px alt="">linkedIn</a> |
+<a href="wonderfulcaco.gamejolt.io"><img src="https://qikdownloads.com/wp-content/uploads/2017/01/Gmae_Jolt_Main2.png" width=14px alt="">GameJolt </a> | 
+<a href="https://twitter.com/WonderfulCaco"><img src="https://img.icons8.com/cotton/2x/twitter.png" width=17px alt="">Twitter </a> 
