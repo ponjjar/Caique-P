@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 📚 I’m studying Computer Technician at the Federal Institute (IFSP).
 - <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=19px alt="🌱"> I’m currently learning more about Python.
-- Learn more about my projects in this profile.
+- You can see my projects in this profile.
 
 <center> Follow me:  
 <a href="https://www.linkedin.com/in/caiqueponjjar/">
