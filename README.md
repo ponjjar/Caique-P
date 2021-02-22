@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 
 <!--
 **Caique-P/Caique-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📕 I am studying Computer Technician at the Federal Institute (@ifsp-campinas).
+- 🌱 I am currently working to learn more about Python
+-    Follow me 
+<a href="https://www.linkedin.com/in/caiqueponjjar/">linkedIn</a> |
+<a href="https://gamejolt.com/@WonderfulCaco"> GameJolt </a> | <a href="https://twitter.com/WonderfulCaco"> Twitter </a> 
