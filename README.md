@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 📚I’m a student at the Federal Institute of Education Science and Technology of São Paulo (IFSP).
-- <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=19px alt="🌱"> I’m currently learning more about Python and Gulp.js.
+- <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=19px alt="🌱"> I’m currently learning more about Python and Gulp.js. <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--guCYAAcB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AIGn5E-1wp5mQ2DHoevVCFA.png" width=22px alt="">
 - You can see my projects in this profile.
 
 <center> Follow me:  
