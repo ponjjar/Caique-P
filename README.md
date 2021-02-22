@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=19px alt="🌱"> I’m currently working to learn more about Python.
 - Learn more about my projects in this profile.
 
-
+<hr/>
 Follow me 
 <a href="https://www.linkedin.com/in/caiqueponjjar/">
  <img src="https://imagens-revista-pro.vivadecora.com.br/uploads/2017/10/como-usar-o-linkedin-para-empresas.png" width=17px alt="">linkedIn</a> |
