@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
--  I am studying Computer Technician at the Federal Institute (ifsp).
+- ⚡ I am studying Computer Technician at the Federal Institute (ifsp).
 - 🌱 I am currently working to learn more about Python
 -    Follow me 
 <a href="https://www.linkedin.com/in/caiqueponjjar/">linkedIn</a> |
