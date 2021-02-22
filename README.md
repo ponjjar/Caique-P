@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📚 Student at IFSP.
+- 📚 Student at Federal Institute of Education Science and Technology of São Paulo (IFSP).
 - <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=19px alt="🌱"> I’m currently learning more about Python.
 - You can see my projects in this profile.
 
