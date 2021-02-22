@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 - ⚡ I am studying Computer Technician at the Federal Institute (ifsp).
 - 🌱 I am currently working to learn more about Python
 - Learn more about my projects in this profile
+
+
 Follow me 
 <a href="https://www.linkedin.com/in/caiqueponjjar/">linkedIn</a> |
 <a href="https://gamejolt.com/@WonderfulCaco"> GameJolt </a> | <a href="https://twitter.com/WonderfulCaco"> Twitter </a> 
