@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiqueponjjar/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiqueponjjar@gmail.com?subject=Subject&amp;body=Message)
 <!---src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif"-->
-<img align="right" src="style.svg" width="350px;" style="border: 8px solid #000;-moz-border-bottom-colors:#897048 #917953#a18a66 #b6a488 #c5b59b #d4c5ae #e2d6c4 #eae1d2;-moz-border-top-colors:#897048 #917953 #a18a66 #b6a488 #c5b59b #d4c5ae #e2d6c4 #eae1d2;-moz-border-left-colors:#897048 #917953 #a18a66 #b6a488 #c5b59b #d4c5ae #e2d6c4 #eae1d2;-moz-border-right-colors:#897048 #917953 #a18a66 #b6a488 #c5b59b #d4c5ae #e2d6c4 #eae1d2;padding: 5px 5px 5px 15px;width: 300px;"/>
+<img align="right" src="style.svg"/>
 
 ----
 <h2>Olá 👋</h2>
