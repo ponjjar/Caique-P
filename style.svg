@@ -2,7 +2,15 @@
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
-			border: 8px solid #000;-moz-border-bottom-colors:#897048 #917953#a18a66 #b6a488 #c5b59b #d4c5ae #e2d6c4 #eae1d2;-moz-border-top-colors:#897048 #917953 #a18a66 #b6a488 #c5b59b #d4c5ae #e2d6c4 #eae1d2;-moz-border-left-colors:#897048 #917953 #a18a66 #b6a488 #c5b59b #d4c5ae #e2d6c4 #eae1d2;-moz-border-right-colors:#897048 #917953 #a18a66 #b6a488 #c5b59b #d4c5ae #e2d6c4 #eae1d2;padding: 5px 5px 5px 15px;width: 300px;
+			img{
+			border: 8px solid #000;
+			-moz-border-bottom-colors:#897048 #917953#a18a66 #b6a488 #c5b59b #d4c5ae #e2d6c4 #eae1d2;
+			-moz-border-top-colors:#897048 #917953 #a18a66 #b6a488 #c5b59b #d4c5ae #e2d6c4 #eae1d2;
+			-moz-border-left-colors:#897048 #917953 #a18a66 #b6a488 #c5b59b #d4c5ae #e2d6c4 #eae1d2;
+			-moz-border-right-colors:#897048 #917953 #a18a66 #b6a488 #c5b59b #d4c5ae #e2d6c4 #eae1d2;
+			padding: 5px 5px 5px 15px;
+			width: 300px;
+			}
 			</style>
 			<div class="container">
 				<img align="right" width="350px;" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif"/>
