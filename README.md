@@ -44,17 +44,17 @@ Here are some ideas to get you started:
 
 <p float="left">
   
+  <img src="https://img.shields.io/badge/-MySQL-0078D6?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/"/>
+
+  <img src="https://img.shields.io/badge/-Python-2E2EFE?style=for-the-badge&logo=Python&logoColor=white&link=https://www.python.org/" />
+  
+  <img src="https://img.shields.io/badge/-Java-ff4500?style=for-the-badge&logo=Java&logoColor=white&link=https://java.oracle.com/" />
+  
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
   
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
   <img src="https://img.shields.io/badge/MariaDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-
-  <img src="https://img.shields.io/badge/-MySQL-0078D6?style=for-the-badge&logo=MySQL&logoColor=white&link=https://www.mysql.com/"/>
-
-  <img src="https://img.shields.io/badge/-Python-2E2EFE?style=for-the-badge&logo=Python&logoColor=white&link=https://www.python.org/" />
-  
-  <img src="https://img.shields.io/badge/-Java-2E2EFE?style=for-the-badge&logo=Java&logoColor=white&link=https://java.oracle.com/" />
   
     <img src="https://img.shields.io/badge/-Python-2E2EFE?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/" />
     
