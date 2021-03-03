@@ -35,10 +35,10 @@ Here are some ideas to get you started:
 ----
 <h2>Olá 👋</h2>
 
-- 🎓Estudante de informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo 
-- 🎯 Meu objetivo é ser um desenvolvedor web full stack 
-- ❤️ Passo meu tempo com musicas, jogos, e livros 
-- 🎸 Gosto de tocar teclado e violão 
+- 🎓Estudante de informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo.
+- 🎯 Meu objetivo é ser um desenvolvedor web full stack.
+- ❤️ Passo meu tempo com musicas, jogos, e livros.
+- 🎸 Gosto de tocar violão e teclado.
 
 ----
 ### Ferramentas e Tecnologias
