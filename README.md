@@ -33,7 +33,9 @@ Here are some ideas to get you started:
 <div src="style.svg">
 	<img align="right" width="350px" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif"/>
 </div>
+
 ----
+
 <h2>Olá 👋</h2>
 
 - 🎓 Curso informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).
