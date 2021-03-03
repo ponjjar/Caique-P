@@ -62,8 +62,6 @@ Here are some ideas to get you started:
 
 <details open>
   <summary>📈 <b>Estatística do Github</b>:</summary>
-  
-    <br>
         
   <div align="left"> 
      <a href="">
@@ -72,6 +70,6 @@ Here are some ideas to get you started:
     <a href="">
       <img width="330px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-P&layout=compact&theme=tokyonight">
     </a>  
-</div
+</div>
 <br/>
 </details>
