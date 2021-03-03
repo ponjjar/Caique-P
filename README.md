@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- AQUI VAI SER O CONTEUDO DA PAGINA:--->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiqueponjjar/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://caiqueponjjar@gmail.com)
 
-<img align="right" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif" width="350px;"/>
+<img align="right" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif" width="300px;"/>
 
 ----
 
