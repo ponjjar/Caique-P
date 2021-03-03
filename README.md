@@ -28,6 +28,9 @@ Here are some ideas to get you started:
 <!-- AQUI VAI SER O CONTEUDO DA PAGINA:--->
 <h2>Olá 👋</h2>
 - 🎓Estudante de informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
+
 - 🎯Meu objetivo é ser um desenvolvedor web full stack
+
 - ❤️Musicas, jogos, e livros
+
 - 🎸Teclado e violão
