@@ -55,7 +55,23 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
   <img src="https://img.shields.io/badge/MariaDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  
-    <img src="https://img.shields.io/badge/-Python-2E2EFE?style=flat-square&logo=Python&logoColor=white&link=https://www.python.org/" />
     
 </p>
+
+----
+
+<details open>
+  <summary>📈 <b>Estatística do Github</b>:</summary>
+  
+    <br>
+        
+  <div align="left"> 
+     <a href="">
+      <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Caique-P&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
+    </a>
+    <a href="">
+      <img width="330px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-P&layout=compact&theme=tokyonight">
+    </a>  
+</div
+<br/>
+</details>
