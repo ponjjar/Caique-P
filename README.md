@@ -1,5 +1,5 @@
-### Hi 👋
-
+<!-- ### Hi 👋 --->
+ 
 <!--
 **Caique-P/Caique-P** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,13 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<!---
 - 📚I’m a student at the Federal Institute of Education Science and Technology of São Paulo (IFSP).
 - <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=19px alt="🌱"> I’m currently learning more about Python and Gulp.js. <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--guCYAAcB--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://cdn-images-1.medium.com/max/1000/1%2AIGn5E-1wp5mQ2DHoevVCFA.png" width=22px alt="">
 - You can see my projects in this profile.
 <hr/>
 <h3> Find me elsewhere 🌎  </h3>
-
-- <a href="https://www.linkedin.com/in/caiqueponjjar/"> <img src="https://imagens-revista-pro.vivadecora.com.br/uploads/2017/10/como-usar-o-linkedin-para-empresas.png" width=14px alt=""> LinkedIn</a> | <a href="https://wonderfulcaco.gamejolt.io"><img src="https://qikdownloads.com/wp-content/uploads/2017/01/Gmae_Jolt_Main2.png" width=14px alt=""> GameJolt </a> 
+--->
+<!--- - <a href="https://www.linkedin.com/in/caiqueponjjar/"> <img src="https://imagens-revista-pro.vivadecora.com.br/uploads/2017/10/como-usar-o-linkedin-para-empresas.png" width=14px alt=""> LinkedIn</a> | <a href="https://wonderfulcaco.gamejolt.io"><img src="https://qikdownloads.com/wp-content/uploads/2017/01/Gmae_Jolt_Main2.png" width=14px alt=""> GameJolt </a> --->
 <!--|<a href="https://twitter.com/WonderfulCaco"><img src="https://img.icons8.com/cotton/2x/twitter.png" width=14px alt="">Twitter </a> 
 </center>---->
+
+<!-- AQUI VAI SER O CONTEUDO DA PAGINA:--->
+<h2>Olá 👋</h2>
+- 🎓Estudante de informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
+- 🎯Meu objetivo é ser um desenvolvedor web full stack
+- ❤️Musicas, jogos, e livros
+- 🎸Teclado e violão
