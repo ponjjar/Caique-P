@@ -33,10 +33,10 @@ Here are some ideas to get you started:
 ----
 
 <h2>Olá 👋</h2>
-- 🎓Estudante de informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo
 
-- 🎯 Meu objetivo é ser um desenvolvedor web full stack
+- 🎓Estudante de informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo 
+- 🎯 Meu objetivo é ser um desenvolvedor web full stack 
+- ❤️ Musicas, jogos, e livros 
+- 🎸 Teclado e violão 
 
-- ❤️ Musicas, jogos, e livros
-
-- 🎸 Teclado e violão
+----
