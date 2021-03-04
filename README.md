@@ -56,7 +56,9 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   
-  <img src="https://img.shields.io/badge/MariaDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jquery-3fa6cc?style=for-the-badge&logo=jquery&logoColor=blue" />
+		
+  <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=CSS3&logoColor=white" />
     
 </p>
 
