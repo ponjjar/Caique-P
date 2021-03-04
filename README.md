@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 
 - 🎓 Curso informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).
 - 🎯 Meu objetivo é ser um desenvolvedor web full stack.
-- ❤️ Passo meu tempo com musicas, jogos, livros e violão.
+- ❤️ Passo meu tempo com musicas, livros, violão e programando.
 
 ----
 ### Ferramentas e Tecnologias
