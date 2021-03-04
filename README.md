@@ -67,8 +67,8 @@ Here are some ideas to get you started:
 
 ----
 
-<details open>
-  <summary>📈 <b>Estatísticas do Github</b>:</summary>
+<details hide>
+  <summary>📈 <b>Estatísticas do Github</b></summary>
   <br/>
   <div align="left"> 
      <a href="">
