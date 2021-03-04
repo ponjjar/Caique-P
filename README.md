@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 # Caique Ponjjar 💻
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiqueponjjar/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiqueponjjar@gmail.com?subject=Subject&amp;body=Message)
-<!---src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif"-->
+<!---src="https://github.com/Caique-P/Caique-P/source.gif"-->
 
 <img align="right" width="35%" src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif"/>
 
