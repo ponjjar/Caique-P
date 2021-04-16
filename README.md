@@ -60,10 +60,10 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-c7b302?style=for-the-badge&logo=javascript&logoColor=white&link=https://www.javascript.com" />
   
   <img src="https://img.shields.io/badge/Jquery-3fa6cc?style=for-the-badge&logo=jquery&logoColor=blue&link=https://jquery.com" />
-  
-  <img src="https://img.shields.io/badge/React.js-FF0000?style=for-the-badge&logo=react.js&logoColor=blue&link=https://pt-br.reactjs.org" />
 		
   <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=CSS3&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/React.js-FF0000?style=for-the-badge&logo=react.js&logoColor=blue&link=https://pt-br.reactjs.org" />
     
 </p>
 
