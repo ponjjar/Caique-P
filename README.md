@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 		
   <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=CSS3&logoColor=white" />
   
-  <img src="https://img.shields.io/badge/React.js-FF0000?style=for-the-badge&logo=react.js&logoColor=blue&link=https://pt-br.reactjs.org" />
+  <img src="https://img.shields.io/badge/React.js-6699CC?style=for-the-badge&logo=react&logoColor=blue&link=https://pt-br.reactjs.org" />
     
 </p>
 
