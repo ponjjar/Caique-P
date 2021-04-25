@@ -74,7 +74,7 @@ Here are some ideas to get you started:
   <br/>
   <div align="left"> 
      <a href="">
-      <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Caique-P&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
+      <img width="250px" align="left" src="https://github-readme-stats.vercel.app/api?username=Caique-P&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
     </a>
     <a href="">
       <img width="330px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-P&layout=compact&theme=tokyonight">
