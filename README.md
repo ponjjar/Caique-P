@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 <!-- AQUI VAI SER O CONTEUDO DA PAGINA:--->
 # Caique Ponjjar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiqueponjjar/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiqueponjjar@gmail.com?subject=Subject&amp;body=Message)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiqueponjjar/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiqueponjjar@gmail.com?subject=Subject&amp;body=Message) [![Projetos](https://img.shields.io/badge/Projetos-4f16a6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caique-P?tab=repositories) 
 <!---src="https://github.com/Caique-P/Caique-P/source.gif"-->
 <!---src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif"-->
 <img align="right" alt="" width="180px" src="github-logo.gif"/>
