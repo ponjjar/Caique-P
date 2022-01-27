@@ -53,8 +53,6 @@ Here are some ideas to get you started:
 
   <img src="https://img.shields.io/badge/-Flask-323330?style=for-the-badge&logo=flask&logoColor=white&link=https://flask.palletsprojects.com" />
 
-  <img src="https://img.shields.io/badge/-Java-ff4500?style=for-the-badge&logo=Java&logoColor=white&link=https://java.oracle.com/" />
-  
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white&link=https://nodejs.org/" />
   
   <img src="https://img.shields.io/badge/JavaScript-c7b302?style=for-the-badge&logo=javascript&logoColor=white&link=https://www.javascript.com" />
@@ -64,7 +62,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=CSS3&logoColor=white" />
   
   <img src="https://img.shields.io/badge/React.js-6699CC?style=for-the-badge&logo=react&logoColor=white&link=https://pt-br.reactjs.org" />
-    
+
+  <img src="https://img.shields.io/badge/-Java-ff4500?style=for-the-badge&logo=Java&logoColor=white&link=https://java.oracle.com/" />
+  
+  <img src="https://img.shields.io/badge/-Kotlin-200259?style=for-the-badge&logo=Kotlin&logoColor=darkpurple&link=https://kotlinlang.org/" />
+  
 </p>
 
 ----
