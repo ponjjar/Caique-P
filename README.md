@@ -26,21 +26,21 @@ Here are some ideas to get you started:
 </center>---->
 
 <!-- AQUI VAI SER O CONTEUDO DA PAGINA:--->
-# Caique Ponjjar
+<h1 align="center">Olá 👋, eu sou o Caique</h1> 
+<h3 align="center">Um desenvolvedor frontend e mobile</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiqueponjjar/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiqueponjjar@gmail.com?subject=Subject&amp;body=Message) [![Projetos](https://img.shields.io/badge/Projetos-4f16a6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Caique-P?tab=repositories) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiqueponjjar/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiqueponjjar@gmail.com?subject=Subject&amp;body=Message) 
 <!---src="https://github.com/Caique-P/Caique-P/source.gif"-->
 <!---src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif"-->
 <img align="right" alt="" width="180px" src="github-logo.gif"/>
 
-----
-
-<h2>Olá 👋</h2>
 
 - 🎓 Curso informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).
 - 🎯 Me interesso pela área de desenvolvimento.
-- ❤️ Passo meu tempo com musicas, livros, violão e programando.
-- Veja meus projetos neste perfil.
+- ❤️ Passo meu tempo com musicas, livros e programando.
+
+- [![Projetos](https://img.shields.io/badge/Veja%20meus%20Projetos%20neste%20perfil.-4f16a6?style=social&logo=github&logoColor=black)](https://github.com/Caique-P?tab=repositories)
+
 
 ----
 ### Ferramentas e Tecnologias
