@@ -84,25 +84,23 @@ Here are some ideas to get you started:
   
 </p>
 <h2> Work experience</h2>
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
+In the overview below you will find my most recent work experience:
 
 
-[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://user-images.githubusercontent.com/58194653/207421108-f5902bdb-b095-4df4-a990-751c2204c72a.png"/>]([https://www.spacex.com/](https://www.eb.mil.br))
 
+[<img align="left" height="94px" width="94px" alt="Brazilian Army" src="https://user-images.githubusercontent.com/58194653/207421108-f5902bdb-b095-4df4-a990-751c2204c72a.png"/>](https://www.eb.mil.br)
 **Brazilian Army** \
 [**Brazilian Army**](https://www.eb.mil.br) • Full-time \
 Languages & Technologies: `Python`, `JavaScript` and `PHP`\
 Featured projects: [CombatViewer](https://github.com/Caique-P/CombateViewer)
 <br/>
 
-[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+[<img align="left" height="94px" width="94px" alt="Inovia" src="https://user-images.githubusercontent.com/58194653/207423466-94c16280-7c0b-413e-84ee-6cf96090a489.png"/>](https://inoviacorp.com)
 
 **Mobile and Web Developer (Jr)** \
-[**Inovia corp**](https://rocketseat.com.br/) • Half-time \
+[**Inovia corp**](https://inoviacorp.com) • Half-time \
 Linguagens & Tecnologias: `JavaScript`, `Node`, `React.js`,`Java` and `Kotlin` \
 Featured projects: [Cuco](https://github.com/Caique-P/Cuco), [AgilDo](https://inoviacorp.com/solucoes)
-<br/>
-<br/>
 
 Please find me at [LinkedIn](https://www.linkedin.com/in/caiqueponjjar/) for a more detailed description of my work experience, education and certification.
 <br/>
