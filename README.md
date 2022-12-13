@@ -25,25 +25,36 @@ Here are some ideas to get you started:
 <!--|<a href="https://twitter.com/WonderfulCaco"><img src="https://img.icons8.com/cotton/2x/twitter.png" width=14px alt="">Twitter </a> 
 </center>---->
 
-<!-- AQUI VAI SER O CONTEUDO DA PAGINA:--->
-<h1 align="center">Olá 👋, eu sou o Caique</h1> 
-<h3 align="center">Um desenvolvedor frontend e mobile</h3>
+<!-- AQUI VAI SER O CONTEUDO DA PAGINA:---><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+# Hi, I'm Caique Ponjjar 👨🏻‍💻
+<p align="left"> 
+	I'm passionate about technology! I had my first contact with computers when I was 7 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier.
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiqueponjjar/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caiqueponjjar@gmail.com?subject=Subject&amp;body=Message) 
+
+<p align="left">
+  <a href="mailto:caiqueponjjar@gmail.com?subject=Subject&amp;body=Message" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&mailto:caiqueponjjar@gmail.com?subject=Subject&amp;body=Message" /></a>
+
+  <a href="https://www.linkedin.com/in/caiqueponjjar/" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiqueponjjar/" /></a>
+
+  <a href="api.whatsapp.com/send?phone=5519996835584" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=api.whatsapp.com/send?phone=5519996835584"/></a>
+<a href="https://github.com/Caique-P?tab=repositories" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/See%20my%20Projects%20in%20this%20profile.-4f16a6?style=social&logo=github&logoColor=black"/></a>
+</p>  
 <!---src="https://github.com/Caique-P/Caique-P/source.gif"-->
 <!---src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif"-->
-<img align="right" alt="" width="180" src="gitlogo.gif"/>
 
 
-- 🎓 Curso informática no Instituto Federal de Educação, Ciência e Tecnologia de São Paulo (IFSP).
-- 🎯 Me interesso pela área de desenvolvimento.
-- ❤️ Passo meu tempo com musicas, livros e programando.
-
-- [![Projetos](https://img.shields.io/badge/Veja%20meus%20Projetos%20neste%20perfil.-4f16a6?style=social&logo=github&logoColor=black)](https://github.com/Caique-P?tab=repositories)
+* 🎓 Computer Technician from the Federal Institute of Education, Science and Technology of São Paulo (IFSP).
+* 🎯 I am interested in the area of ​​Web & Mobile development.
+* 🪖 Completing my year of mandatory military service
 
 
-----
-### Ferramentas e Tecnologias
+
+<h2> Tools and Technologies </h2>
 
 <p float="left">
   
@@ -72,11 +83,31 @@ Here are some ideas to get you started:
 
   
 </p>
+<h2> Work experience</h2>
+Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-----
 
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://user-images.githubusercontent.com/58194653/207421108-f5902bdb-b095-4df4-a990-751c2204c72a.png"/>]([https://www.spacex.com/](https://www.eb.mil.br))
+
+**Brazilian Army** \
+[**Brazilian Army**](https://www.eb.mil.br) • Full-time \
+Languages & Technologies: `Python`, `JavaScript` and `PHP`\
+Featured projects: [CombatViewer](https://github.com/Caique-P/CombateViewer)
+<br/>
+
+[<img align="left" height="94px" width="94px" alt="Rocketseat" src="https://yt3.ggpht.com/ytc/AKedOLQkXnYChXAHOeBQLzwhk1_BHYgUXs6ITQOakoeNoQ=s900-c-k-c0x00ffffff-no-rj"/>](https://rocketseat.com.br/)
+
+**Mobile and Web Developer (Jr)** \
+[**Inovia corp**](https://rocketseat.com.br/) • Half-time \
+Linguagens & Tecnologias: `JavaScript`, `Node`, `React.js`,`Java` and `Kotlin` \
+Featured projects: [Cuco](https://github.com/Caique-P/Cuco), [AgilDo](https://inoviacorp.com/solucoes)
+<br/>
+<br/>
+
+Please find me at [LinkedIn](https://www.linkedin.com/in/caiqueponjjar/) for a more detailed description of my work experience, education and certification.
+<br/>
 <details hide>
-  <summary><b>Estatísticas do Github</b></summary>
+  <summary><h2>Github Stats</h2></summary>
   <br/>
   <div align="left"> 
      <a href="">
