@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <!--|<a href="https://twitter.com/WonderfulCaco"><img src="https://img.icons8.com/cotton/2x/twitter.png" width=14px alt="">Twitter </a> 
 </center>---->
 
-<!-- AQUI VAI SER O CONTEUDO DA PAGINA:---><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<!-- AQUI VAI SER O CONTEUDO DA PAGINA:---><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="25%" width="25%" align="right" alt="Computador">
 # Hi, I'm Caique Ponjjar 👨🏻‍💻
 <p align="left"> 
 	I'm passionate about technology! I had my first contact with computers when I was 7 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier.
