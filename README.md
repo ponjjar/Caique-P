@@ -39,8 +39,8 @@ Here are some ideas to get you started:
   <a href="https://www.linkedin.com/in/caiqueponjjar/" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/caiqueponjjar/" /></a>
 
-  <a href="api.whatsapp.com/send?phone=5519996835584" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=api.whatsapp.com/send?phone=5519996835584"/></a>
+  <a href="https://api.whatsapp.com/send?phone=5519996835584" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519996835584"/></a>
 <a href="https://github.com/Caique-P?tab=repositories" alt="WhatsApp">
   <img src="https://img.shields.io/badge/See%20my%20Projects%20in%20this%20profile.-4f16a6?style=social&logo=github&logoColor=black"/></a>
 </p>  
