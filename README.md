@@ -31,6 +31,10 @@ Here are some ideas to get you started:
 	I'm passionate about technology! I had my first contact with computers when I was 7 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier.
 </p>
 
+<p align="left">
+	I have a good knowledge of programming languages such as Java and Python, as well as web technologies like HTML/CSS, JavaScript, React and Node. I also like to work with data analysis and machine learning.
+</p>
+
 
 <p align="left">
   <a href="mailto:caiqueponjjar@gmail.com?subject=Subject&amp;body=Message" alt="Gmail">
