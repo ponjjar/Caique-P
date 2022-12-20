@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left">
-	I have a good knowledge of programming languages such as Java and Python, as well as web technologies like HTML/CSS, JavaScript, React and Node. I also like to work with data analysis and machine learning.
+	I am highly motivated, organized, and detail-oriented. I enjoy problem solving and creating user-friendly and aesthetically pleasing applications. I am a strong team player and I am able to handle multiple tasks and tight deadlines. I take pride in the projects I create and strive to push myself to create the best product possible.
 </p>
 
 
