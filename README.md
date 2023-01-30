@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 * 🎓 Computer Technician from the Federal Institute of Education, Science and Technology of São Paulo (IFSP).
 * 🎯 I am interested in the area of ​​Web & Mobile development.
-* 🪖 Completing my year of mandatory military service
+* 🪖 Completed my year of mandatory military service
 
 
 
@@ -78,6 +78,8 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/React.js-6699CC?style=for-the-badge&logo=react&logoColor=white&link=https://pt-br.reactjs.org" />
 
+  <img src="https://img.shields.io/badge/-Vue.js-white?style=for-the-badge&logo=Vue.js&logoColor=green&link=https://kotlinlang.org/" />
+
   <img src="https://img.shields.io/badge/-Java-ff4500?style=for-the-badge&logo=Java&logoColor=white&link=https://java.oracle.com/" />
   
   <img src="https://img.shields.io/badge/-Kotlin-200259?style=for-the-badge&logo=Kotlin&logoColor=darkpurple&link=https://kotlinlang.org/" />
@@ -85,6 +87,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&link=https://unity.com/" />
 	
   <img src="https://img.shields.io/badge/-Ruby-lightpink?style=for-the-badge&logo=Ruby&logoColor=red&link=https://kotlinlang.org/" />
+	
 
 
   
@@ -96,7 +99,7 @@ In the overview below you will find my most recent work experience:
 
 [<img align="left" height="94px" width="94px" alt="Brazilian Army" src="https://user-images.githubusercontent.com/58194653/207421108-f5902bdb-b095-4df4-a990-751c2204c72a.png"/>](https://www.eb.mil.br)
 **Brazilian Army** \
-[**Brazilian Army**](https://www.eb.mil.br) • Full-time \
+[**Brazilian Army**](https://www.eb.mil.br) • Full-time  \
 Languages & Technologies: `Python`, `JavaScript` and `PHP`\
 Featured projects: [CombatViewer](https://github.com/Caique-P/CombateViewer)
 <br/>
@@ -104,9 +107,9 @@ Featured projects: [CombatViewer](https://github.com/Caique-P/CombateViewer)
 [<img align="left" height="94px" width="94px" alt="Inovia" src="https://user-images.githubusercontent.com/58194653/207423466-94c16280-7c0b-413e-84ee-6cf96090a489.png"/>](https://inoviacorp.com)
 
 **Mobile and Web Developer (Jr)** \
-[**Inovia corp**](https://inoviacorp.com) • Half-time \
+[**Inovia corp**](https://inoviacorp.com) • Full-time • At moment  \
 Linguagens & Tecnologias: `JavaScript`, `Node`, `React.js`,`Java` and `Kotlin` \
-Featured projects: [Cuco](https://github.com/Caique-P/Cuco), [AgilDo](https://inoviacorp.com/solucoes)
+Featured projects: [Cuco](https://github.com/Caique-P/Cuco), [AgilDo](https://inoviacorp.com/solucoes), [BYou](https://inoviacorp.com/solucoes)
 
 Please find me at [LinkedIn](https://www.linkedin.com/in/caiqueponjjar/) for a more detailed description of my work experience, education and certification.
 <br/>
