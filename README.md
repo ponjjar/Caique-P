@@ -108,7 +108,7 @@ Featured projects: [CombatViewer](https://github.com/Caique-P/CombateViewer)
 
 **Mobile and Web Developer (Jr)** \
 [**Inovia corp**](https://inoviacorp.com) • Full-time • At moment  \
-Linguagens & Tecnologias: `JavaScript`, `Node`, `React.js`,`Java` and `Kotlin` \
+Languages & Technologies: `JavaScript`, `Node`, `React.js`,`Java` and `Kotlin` \
 Featured projects: [Cuco](https://github.com/Caique-P/Cuco), [AgilDo](https://inoviacorp.com/solucoes), [BYou](https://inoviacorp.com/solucoes)
 
 Please find me at [LinkedIn](https://www.linkedin.com/in/caiqueponjjar/) for a more detailed description of my work experience, education and certification.
