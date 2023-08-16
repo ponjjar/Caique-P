@@ -80,7 +80,7 @@ Here are some ideas to get you started:
   
   <img src="https://img.shields.io/badge/-Kotlin-200259?style=for-the-badge&logo=Kotlin&logoColor=darkpurple&link=https://kotlinlang.org/" />
 
-  <img src="https://img.shields.io/badge/-Flutter-200259?style=for-the-badge&logo=Kotlin&logoColor=blueaccent&link=https://flutter.dev/" />
+  <img src="https://img.shields.io/badge/-Flutter-0c7df5?style=for-the-badge&logo=Flutter&logoColor=lightblue&link=https://flutter.dev/" />
 	
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&link=https://unity.com/" />
 	
