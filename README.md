@@ -44,15 +44,15 @@ Here are some ideas to get you started:
 <a href="https://github.com/Caique-P?tab=repositories" alt="WhatsApp">
   <img src="https://img.shields.io/badge/See%20my%20Projects%20in%20this%20profile.-4f16a6?style=social&logo=github&logoColor=black"/></a>
 </p>  
-<!---src="https://github.com/Caique-P/Caique-P/source.gif"-->
+<!---src="https://github.com/Caique-P/Caique-P/source.gif"
+* 🎯 I am interested in the area of ​​Web & Mobile development.
+-->
 <!---src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif"-->
 
 
-* 🎓 Computer Technician from the Federal Institute of Education of São Paulo (IFSP).
-* 🎯 I am interested in the area of ​​Web & Mobile development.
-* 🪖 Completed my year of mandatory military service
-* 📚 Currently studying at UNIVESP (Virtual University of the State of São Paulo).
-
+-  🎓 Computer Technician from the Federal Institute of São Paulo (IFSP).
+-  🪖 Completed my year of mandatory military service
+-  📚 Currently studying at UNIVESP (Virtual University of the State of São Paulo).
 
 <h2> Tools and Technologies </h2>
 
