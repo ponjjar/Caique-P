@@ -26,13 +26,9 @@ Here are some ideas to get you started:
 </center>---->
 
 <!-- AQUI VAI SER O CONTEUDO DA PAGINA:---><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="25%" width="25%" align="right" alt="Computador">
-# Hi, I'm Caique Ponjjar 👨🏻‍💻
+# Hi, I'm Caique Ponjjar 👨🏻‍💻 
 <p align="left"> 
-	I'm passionate about technology! I had my first contact with computers when I was 7 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier.
-</p>
-
-<p align="left">
-	I am highly motivated, organized, and detail-oriented. I enjoy problem solving and creating user-friendly and aesthetically pleasing applications. I am a strong team player and I am able to handle multiple tasks and tight deadlines. I take pride in the projects I create and strive to push myself to create the best product possible.
+	Technology enthusiast since age 7, dedicated to crafting solutions that streamline people's lives.
 </p>
 
 
@@ -52,10 +48,10 @@ Here are some ideas to get you started:
 <!---src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif"-->
 
 
-* 🎓 Computer Technician from the Federal Institute of Education, Science and Technology of São Paulo (IFSP).
+* 🎓 Computer Technician from the Federal Institute of Education of São Paulo (IFSP).
 * 🎯 I am interested in the area of ​​Web & Mobile development.
 * 🪖 Completed my year of mandatory military service
-
+* 📚 Currently studying at UNIVESP (Virtual University of the State of São Paulo).
 
 
 <h2> Tools and Technologies </h2>
@@ -83,6 +79,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/-Java-ff4500?style=for-the-badge&logo=Java&logoColor=white&link=https://java.oracle.com/" />
   
   <img src="https://img.shields.io/badge/-Kotlin-200259?style=for-the-badge&logo=Kotlin&logoColor=darkpurple&link=https://kotlinlang.org/" />
+
+  <img src="https://img.shields.io/badge/-Flutter-200259?style=for-the-badge&logo=Kotlin&logoColor=blueaccent&link=https://flutter.dev/" />
 	
 <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white&link=https://unity.com/" />
 	
@@ -92,26 +90,22 @@ Here are some ideas to get you started:
 
   
 </p>
+<!--
 <h2> Work experience</h2>
 In the overview below you will find my most recent work experience:
-
-
-
 [<img align="left" height="94px" width="94px" alt="Brazilian Army" src="https://user-images.githubusercontent.com/58194653/207421108-f5902bdb-b095-4df4-a990-751c2204c72a.png"/>](https://www.eb.mil.br)
 **Brazilian Army** \
 [**Brazilian Army**](https://www.eb.mil.br) • Full-time  \
 Languages & Technologies: `Python`, `JavaScript` and `PHP`\
 Featured projects: [CombatViewer](https://github.com/Caique-P/CombateViewer)
 <br/>
-
 [<img align="left" height="94px" width="94px" alt="Inovia" src="https://user-images.githubusercontent.com/58194653/207423466-94c16280-7c0b-413e-84ee-6cf96090a489.png"/>](https://inoviacorp.com)
-
 **Mobile and Web Developer (Jr)** \
 [**Inovia corp**](https://inoviacorp.com) • Full-time • At moment  \
 Languages & Technologies: `JavaScript`, `Node`, `React.js`,`Java` and `Kotlin` \
 Featured projects: [Cuco](https://github.com/Caique-P/Cuco), [AgilDo](https://inoviacorp.com/solucoes), [BYou](https://inoviacorp.com/solucoes)
+-->
 
-Please find me at [LinkedIn](https://www.linkedin.com/in/caiqueponjjar/) for a more detailed description of my work experience, education and certification.
 <br/>
 <details hide>
   <summary><h2>Github Stats</h2></summary>
