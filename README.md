@@ -25,13 +25,23 @@ Here are some ideas to get you started:
 <!--|<a href="https://twitter.com/WonderfulCaco"><img src="https://img.icons8.com/cotton/2x/twitter.png" width=14px alt="">Twitter </a> 
 </center>---->
 
-<!-- AQUI VAI SER O CONTEUDO DA PAGINA:---><img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="25%" width="25%" align="right" alt="Computador">
-# Hi, I'm Caique Ponjjar 👨🏻‍💻 
-<p align="left"> 
-	Technology enthusiast since age 7, dedicated to crafting solutions that streamline people's lives.
-</p>
+<!-- AQUI VAI SER O CONTEUDO DA PAGINA:---> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f9c701&size=35&center=true&vCenter=true&width=1000&lines=Seja+muito+bem-vindo!)](https://git.io/typing-svg)
 
 
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caique-p&show_icons=true&theme=outrun" alt="Lucas Carvalho's GitHub stats" />
+  
+  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjcc&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
+</div>
+
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caique-p&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
+<h3 align="left">Sobre:</h3>
+<p>Sou apaixonado por tecnologia, dedico meus estudos e experiências profissionais à área. Sou técnico em informática e atualmente curso graduação em Engenharia da Computação.</p>
 <p align="left">
   <a href="mailto:caiqueponjjar@gmail.com?subject=Subject&amp;body=Message" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&mailto:caiqueponjjar@gmail.com?subject=Subject&amp;body=Message" /></a>
@@ -42,19 +52,15 @@ Here are some ideas to get you started:
   <!-- <a href="https://api.whatsapp.com/send?phone=5519996835584" alt="WhatsApp">
  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519996835584"/></a>--->
 <a href="https://github.com/Caique-P?tab=repositories" alt="WhatsApp">
-  <img src="https://img.shields.io/badge/See%20my%20Projects%20in%20this%20profile.-4f16a6?style=social&logo=github&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Veja%20meus%20Projetos%20nesse%20perfil.-4f16a6?style=social&logo=github&logoColor=black"/></a>
 </p>  
 <!---src="https://github.com/Caique-P/Caique-P/source.gif"
 * 🎯 I am interested in the area of ​​Web & Mobile development.
 -->
 <!---src="https://media2.giphy.com/media/dWesBcTLavkZuG35MI/source.gif"-->
 
-
--  🎓 Computer Technician from the Federal Institute of São Paulo (IFSP).
--  🪖 Completed my year of mandatory military service
--  📚 Currently studying at UNIVESP (Virtual University of the State of São Paulo).
-
-<h2> Tools and Technologies </h2>
+ 
+ <h3 align="left">Tecnologias que mais uso:</h3> 
 
 <p float="left">
   
@@ -88,6 +94,14 @@ Here are some ideas to get you started:
 	
 
 
+<div align="center">
+<br><p align="centre"><b>Visitantes:</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{caique-p}/count.svg" /></p> 
+<br>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7070e3&height=120&section=footer"/>
+
   
 </p>
 <!--
@@ -104,19 +118,4 @@ Featured projects: [CombatViewer](https://github.com/Caique-P/CombateViewer)
 [**Inovia corp**](https://inoviacorp.com) • Full-time • At moment  \
 Languages & Technologies: `JavaScript`, `Node`, `React.js`,`Java` and `Kotlin` \
 Featured projects: [Cuco](https://github.com/Caique-P/Cuco), [AgilDo](https://inoviacorp.com/solucoes), [BYou](https://inoviacorp.com/solucoes)
--->
-
-<br/>
-<details hide>
-  <summary><h2>Github Stats</h2></summary>
-  <br/>
-  <div align="left"> 
-     <a href="">
-      <img width="450px" align="left" src="https://github-readme-stats.vercel.app/api?username=Caique-P&show_icons=true&include_all_commits=true&count_private=true&&hide=issues&theme=tokyonight"/>
-    </a>
-    <a href="">
-      <img width="330px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caique-P&layout=compact&theme=tokyonight">
-    </a>  
-</div>
-<br/>
-</details>
+--> 
