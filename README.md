@@ -31,9 +31,9 @@ Here are some ideas to get you started:
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caique-p&show_icons=true&theme=outrun" alt="Lucas Carvalho's GitHub stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caique-p&show_icons=true&theme=outrun" alt="Caique Ponjjar's GitHub stats" />
   
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasjcc&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
+  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique-p&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
 </div>
 
 
