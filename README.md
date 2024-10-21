@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=caique-p&show_icons=true&theme=outrun" alt="Caique Ponjjar's GitHub stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=ponjjar&show_icons=true&theme=outrun" alt="Caique Ponjjar's GitHub stats" />
   
-  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caique-p&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
+  <img width="37%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ponjjar&layout=compact&hide_border=true&title_color=f9c701&text_color=7070e3&bg_color=141439" />
 </div>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=caique-p&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ponjjar&bg_color=0e0e27&color=f5c402&line=f5c402&point=f5c402&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <h3 align="left">Sobre:</h3>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
   <!-- <a href="https://api.whatsapp.com/send?phone=5519996835584" alt="WhatsApp">
  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5519996835584"/></a>--->
-<a href="https://github.com/Caique-P?tab=repositories" alt="WhatsApp">
+<a href="https://github.com/ponjjar?tab=repositories" alt="WhatsApp">
   <img src="https://img.shields.io/badge/Veja%20meus%20Projetos%20nesse%20perfil.-4f16a6?style=social&logo=github&logoColor=black"/></a>
 </p>  
 <!---src="https://github.com/Caique-P/Caique-P/source.gif"
